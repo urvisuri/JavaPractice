@@ -1,6 +1,6 @@
 public class Oops {
     public static void main(String[] args) {
-        pen p=new pen() ;
+        Pen p= new Pen();
         p.color="black";
         p.type="gel";
         p.write();
